@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Maja/static/js/main.39c89bda.js",
+    "main.js": "/Maja/static/js/main.0004d471.js",
     "static/media/7.jpeg": "/Maja/static/media/7.6dbb9613390d11d0a76a.jpeg",
     "static/media/5.jpeg": "/Maja/static/media/5.3b16f8be44c291bb7525.jpeg",
     "static/media/2.jpeg": "/Maja/static/media/2.39aaa65baa582eb3c108.jpeg",
@@ -10,9 +10,9 @@
     "static/media/bg.jpg": "/Maja/static/media/bg.65d64f06a2d1559bba99.jpg",
     "static/media/3.jpeg": "/Maja/static/media/3.20bd68c9634f0a711b51.jpeg",
     "index.html": "/Maja/index.html",
-    "main.39c89bda.js.map": "/Maja/static/js/main.39c89bda.js.map"
+    "main.0004d471.js.map": "/Maja/static/js/main.0004d471.js.map"
   },
   "entrypoints": [
-    "static/js/main.39c89bda.js"
+    "static/js/main.0004d471.js"
   ]
 }
